@@ -1,0 +1,274 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: arial;
+}
+
+
+
+.nav-bar{
+    background-color: #0f1111;
+    height: 60px;
+     display: flex;
+   align-items: center;
+   justify-content: space-evenly;
+   color: white;
+   
+
+  
+    
+    /*  box 1 */
+    
+}
+.nav-box1{
+    height: 50px;
+    width: 100px;
+}
+
+.nav-logo1{
+    background-image: url(../image/Amazon-Symbol.jpg);
+    background-size: cover;
+    height: 40px;
+    width: 100%;
+    /* margin-left:20px ; */
+    
+}
+
+/* box 2  */
+
+.nav-box2{
+    color: white;
+     margin-left: 40px;
+    margin-top: 10px; 
+} 
+.nav-logo2{
+    display: flex;
+    align-items: center;
+    
+}
+.gwalior1{
+     
+     color: #cccccc;
+     font-size: 0.85rem;
+     margin-left: 17px;
+
+}
+.gwalior2{
+font-size: 1rem;
+margin-left: 5px;
+}
+/* box 3 */
+.nav-box3{
+    display: flex;
+    background-color: pink;
+    width: 620px;
+    height: 40px;
+    border: none;
+    margin-left: 20px;
+
+}
+.select-input1{
+    width: 45px;
+    font-size: 1rem;
+    border: none;
+
+
+}
+.select-input2{
+    width: 100%;
+    display: flex;
+    /* justify-content: center; */
+
+}
+.select-input2:hover{
+    border: 2px solid orange;
+}
+.Search-icon{
+    width: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #febd68;
+   
+}
+/* box 4 */
+
+span{
+    
+    font-size:0.8rem ;
+}
+.Account1{
+    
+    font-weight: 700;
+}
+/* box 5 */
+.orders1{
+    font-weight: 700;
+}
+/* box6 */
+.nav-box6 i{
+font-size: 27px;
+}
+/* panel */
+.panel{
+    
+    height: 40px;
+    background-color: #222f3d;
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: center; 
+    
+
+}
+.panel p{
+    display: inline;
+    margin-left: 20px;
+
+    
+}
+.panel-ops{
+    width: 95%;
+    font-size: 0.8rem;
+}
+/* photo  */
+.photo12{
+    background-image: url(../image/amazon\ photo2.jpg);
+    width: 100%;
+    height: 300px;
+    background-size: cover;
+    display:flex;
+    
+}
+.all-1{
+
+    width: 95%;
+    height: 300px;
+    background-color:white;
+    justify-content: space-evenly;
+}
+
+    
+
+.all-photo{
+            border: 5px solid;
+            width: 95%;
+            height: 200px;
+            text-align: center;
+            padding: 5px;
+            overflow: auto;
+            display: flex;
+            border: none;
+            
+}
+.shop-women{
+
+    height: 500px;
+    border: 2px solid red;
+    width: 30%;
+    background-color:
+    
+}
+
+.leptop{
+    border: 5px solid;
+    width: 95%;
+    height: 200px;
+    text-align: center;
+    padding: 5px;
+    overflow: auto;
+    display: flex;
+    border: none;
+}
+.watch{
+    display: flex;
+   justify-content: space-evenly;
+   background-color: #021523;
+   height: 500px;
+    
+}
+
+.p-1{
+    width: 300px;
+    height:400px;
+    background-color: white;
+    
+    
+    
+}
+.p-1 img{
+    width: 291px;
+    height:250px;
+
+    
+}
+.p-2{
+    width: 300px;
+    height:400px;
+    
+    background-color: white;
+    
+    
+}
+.p-2 img{
+    width: 291px;
+    height:250px;
+    
+}
+.p-3{
+    width: 300px;
+    height:400px;
+    
+    background-color: white;
+    
+}
+.p-3 img{
+    width: 291px;
+    height:250px;
+    
+}
+.p-4{
+    width: 300px;
+    height:400px;
+    
+    background-color: white;
+    
+}
+.p-4 img{
+    width: 291px;
+    height:250px;
+    
+}
+footer{
+    width: 100%;
+    height: 500px;
+    background-color:#232f3e;
+    color: white;
+    
+}
+footer a{
+    color: white;
+    text-decoration: none;
+    line-height: 25px;
+    
+}
+.footer-0 {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 30px;
+    
+}
+.footer-1{
+    width: 120px;
+    
+}
+.footer-2{
+    width: 120px;
+}
+.footer-3{
+    width: 120px;
+}
+.footer-4{
+    width: 120px;
+}

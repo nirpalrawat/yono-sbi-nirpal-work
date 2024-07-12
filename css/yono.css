@@ -1,0 +1,88 @@
+
+.a{
+    font-size: 100px;
+    
+
+}
+
+
+.b {
+    margin-left: 600px;
+    margin-top: -95px;
+    line-height: 25px;
+    
+    
+}
+.b a{
+    text-decoration: none;
+    word-spacing: 5px;
+}
+.banner{
+    background: url(../image/bacground.jpg);
+    width: 100%;
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+    margin-top: -5px;
+}
+.banner img{
+    margin-left: 200px;
+    margin-top: 100px;
+    
+}
+.banner h2{
+    color: white;
+    margin-right: 680px;
+    padding-left: 100px;
+    
+}
+.banner button{
+    font-size: 20PX;
+    margin-right: 50PX;
+    height:40PX ;
+    width: 200PX;
+    color: blue;
+    border-radius: 11PX;
+    margin-left: 100PX;
+    
+}
+.box{
+    border: solid;
+    width: 250px;
+    height: 180px;
+    float: left;
+    margin: 60px;
+    border-radius:20px ;
+}
+.div {
+    width: 1380px;
+    height: 300px;
+    margin-left: 60px;
+    border: solid;
+    margin-top: 280px;
+    border-radius: 20px;
+
+}
+.box h2{
+margin-left: 100px;
+}
+.box h4{
+    margin-left: 30px;
+}
+.box img{
+    margin-left: 100px;
+
+}
+.div img{
+    margin-left: 630px;
+    
+}
+.div h2{
+    margin-left: 630px;
+    margin-top: 60px;
+
+}
+.div h4{
+    margin-left: 630px;
+    margin-top: 70px;
+}
